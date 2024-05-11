@@ -194,6 +194,12 @@ namespace Game
             _gameState = GameState.Paused;
         }
 
+        public void TogglePause()
+        {
+            if (_gameState == GameState.Playing) PauseGame();
+            if (_gameState == GameState.Paused) ResumeGame();
+        }
+
         [ProPlayButton]
         public void ResumeGame()
         {

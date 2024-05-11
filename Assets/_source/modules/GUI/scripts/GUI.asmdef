@@ -1,0 +1,19 @@
+{
+    "name": "GUI",
+    "rootNamespace": "GUI",
+    "references": [
+        "GUID:c472462ab63b6b649937e551df06fe55",
+        "GUID:4a425e8ca1ae69c419c4a101ae44eed5",
+        "GUID:4bf903551f3cc4d46b739cc16299597d",
+        "GUID:77d494108c8da7241aebcabbe7d9ff6a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

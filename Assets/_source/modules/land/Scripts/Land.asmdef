@@ -1,0 +1,22 @@
+{
+    "name": "Land",
+    "rootNamespace": "Land",
+    "references": [
+        "GUID:0e41579c203e68f4e8195547d395c06c",
+        "GUID:4bf903551f3cc4d46b739cc16299597d",
+        "GUID:4a425e8ca1ae69c419c4a101ae44eed5",
+        "GUID:c472462ab63b6b649937e551df06fe55",
+        "GUID:0aa8a8c6f31de5649afecfd13f78baf5",
+        "GUID:ef98008c3125212489611fae7af985d1",
+        "GUID:2f280cb7beed33548a7ddf394c496f79"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

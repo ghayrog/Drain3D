@@ -42,6 +42,7 @@ namespace Game
                     _gameManager.AddListener(tListener);
                 }
             }
+
         }
 
     }

@@ -1,0 +1,17 @@
+{
+    "name": "Wallet",
+    "rootNamespace": "Wallet",
+    "references": [
+        "GUID:4bf903551f3cc4d46b739cc16299597d",
+        "GUID:4a425e8ca1ae69c419c4a101ae44eed5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

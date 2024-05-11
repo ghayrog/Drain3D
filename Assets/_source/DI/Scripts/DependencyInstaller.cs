@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
@@ -34,7 +34,7 @@ namespace DI
                     Type type = customAttribute.Contract;
                     object service = field.GetValue(this);
 
-                    yield return(type, service);
+                    yield return (type, service);
 
                 }
             }
